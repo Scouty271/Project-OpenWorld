@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7822636021854424809
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7822636021854424811}
+  - component: {fileID: 7822636021854424810}
+  m_Layer: 0
+  m_Name: TextureHolder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7822636021854424811
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7822636021854424809}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7822636021854424810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7822636021854424809}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06d25bf74a629b74696d7be0bf3e8593, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mapLand1: {fileID: 21300000, guid: fffbb6d93e9d87e48a5928e0ea4db7e4, type: 3}
+  mapMountan1: {fileID: 21300000, guid: ab0ba69d52f8b044d95aff8f1b94cd1d, type: 3}
+  mapWater1: {fileID: 21300000, guid: b89464912ff093b4bbd37f509a38462f, type: 3}
+  character1: {fileID: 0}
+  characterSprite1: {fileID: 21300000, guid: 6f1db8499a36de54aa4aef218ca7380f, type: 3}
+  regionMountan1: {fileID: 21300000, guid: 07a2805accccaa74c88922dbc71afd27, type: 3}
+  regionWater1: {fileID: 21300000, guid: 73874091e4452584d86d3267e85674cc, type: 3}
+  regionGrass1: {fileID: 21300000, guid: f680968e3d80b3d4c99f484e69910dec, type: 3}
+  regionGrass2: {fileID: 21300000, guid: 3c9c1a4f20f22f646800873f3b779ba1, type: 3}
+  regionGrass3: {fileID: 21300000, guid: 50030e7c0e9961848ac4472ca39f848c, type: 3}
+  regionTree1: {fileID: 21300000, guid: 713b07d98d0001a4596594728be4dff8, type: 3}
+  regionTree2: {fileID: 21300000, guid: 23db568d79721d34d89efd991240a88e, type: 3}
+  regionTree3: {fileID: 21300000, guid: f03de939b7f9c314484922d03785c28f, type: 3}
+  regionTree4: {fileID: 21300000, guid: 3724b7de242e3d14c9b7056900b5bf9c, type: 3}
+  regionTree5: {fileID: 21300000, guid: 940e52109381f6943b954eadd0a219e6, type: 3}
+  regionTree6: {fileID: 21300000, guid: 692943b80336fef4ca752d5f7346b54a, type: 3}
+  regionTree7: {fileID: 21300000, guid: 1b5f4d18f39ce8c46bb73dd415a0d702, type: 3}
+  regionTree8: {fileID: 21300000, guid: 8af1df39c7f78244ea41a7cb297e647d, type: 3}
+  regionTree9: {fileID: 21300000, guid: d9470a97e13d1764f943670809634635, type: 3}
+  regionTree10: {fileID: 21300000, guid: 67aeb4385a1d29047a1398487f955ab2, type: 3}
+  treeCut1: {fileID: 21300000, guid: 8a82c5ccd6166e84792b551930a472f6, type: 3}
+  treeCut2: {fileID: 21300000, guid: 98bcb94cc320a084c8cc2d2d9e2ef405, type: 3}
+  regionTreeStamp1: {fileID: 21300000, guid: 13fe4695c2896c94c9d133967c82c15b, type: 3}
+  regionTreeStamp2: {fileID: 21300000, guid: 2486c60d034efa34e9e4dd7ece76ddca, type: 3}
+  flower1: {fileID: 21300000, guid: bd1ad0de5c1fbf744abec5f006cd5498, type: 3}
+  flower2: {fileID: 21300000, guid: 8784c94111fbf9b4a98a79e0e9c3b14d, type: 3}
+  flower3: {fileID: 21300000, guid: 62b703e9d8099c142ab091614e2c98e1, type: 3}
+  flower4: {fileID: 21300000, guid: 40e0d320f513a1f469f1c240121999fd, type: 3}
+  flower5: {fileID: 21300000, guid: a0ade9d1a35450a468eb9823a24a430a, type: 3}
+  flower6: {fileID: 21300000, guid: d744fb754747a4846a3d06a68be38862, type: 3}
+  flower7: {fileID: 21300000, guid: 6f4b05f688aea74409e500406a13c4d1, type: 3}
+  flower8: {fileID: 21300000, guid: 0dfa1544491ca5546ae24185ca5c1a98, type: 3}
+  flower9: {fileID: 21300000, guid: f98cda6ed73fed04e9e720b377faf079, type: 3}
+  flower10: {fileID: 21300000, guid: 60a5e0b83d5f43d409a6c8ec78357beb, type: 3}
+  flower11: {fileID: 21300000, guid: d6d346d1f63777b4881a54ef106ca5df, type: 3}
+  flower12: {fileID: 21300000, guid: 10f6fe1fc829e694aa9ab67526ea33c1, type: 3}
+  flower13: {fileID: 21300000, guid: 179bf4a8e50150940809118b97f2a22d, type: 3}
+  flower14: {fileID: 21300000, guid: 8f7e10855de514b4e8d6219a358f84d3, type: 3}
+  flower15: {fileID: 21300000, guid: 96492c9b82576d5418e54de10a64af56, type: 3}
+  shell1: {fileID: 21300000, guid: 2e2b21e013f1a804aabee8a08d4bd227, type: 3}
+  shell2: {fileID: 21300000, guid: 0b72e3958c4784148866282548426afe, type: 3}
+  shell3: {fileID: 21300000, guid: 696b481c9b88d4543a8af4e430bcb765, type: 3}
+  shroom1: {fileID: 21300000, guid: 683ab6273d471a84f8d0a333b2141671, type: 3}
+  shroom2: {fileID: 21300000, guid: a3d7c25aed510d64389784b3ac104d57, type: 3}
+  cactus1: {fileID: 21300000, guid: 1a3444261e3468d4ea1b568b58af5a64, type: 3}
+  cactus2: {fileID: 21300000, guid: 54e680c51b7ffa64494602502b8f3070, type: 3}
+  bush1: {fileID: 21300000, guid: 201515ad6b9a944489de1c7c4080b254, type: 3}
+  bush2: {fileID: 21300000, guid: 33640180493df254c84f8e5772b8113d, type: 3}
+  bush3: {fileID: 21300000, guid: bdb8cc1885086c445a41d43c628b4b39, type: 3}
+  stone1: {fileID: 21300000, guid: f943a5e170fcdd0429bcb18428d382c0, type: 3}
+  stone2: {fileID: 21300000, guid: cca8e8a4231ca074b80b1b823fad8d42, type: 3}
+  stone3: {fileID: 21300000, guid: 955a763959b07bd45b087f51481c4103, type: 3}
+  stone4: {fileID: 21300000, guid: fc4519cd13f729146952bbeb49b5eb76, type: 3}
+  stone5: {fileID: 21300000, guid: 93febe0368a760a4c90593492840da2a, type: 3}
+  stone6: {fileID: 21300000, guid: f1d09d9ec66e0544ca90ca7d74782adc, type: 3}
+  vegetable1: {fileID: 21300000, guid: ade61a50ef6a5c0468c46d09249f7691, type: 3}
+  vegetable2: {fileID: 21300000, guid: 2edcedeb1fbd1934a949fc98295b5c1c, type: 3}
+  vegetable3: {fileID: 21300000, guid: 954cb86cd0cc57b4fa461cc95b032a2d, type: 3}
+  vegetable4: {fileID: 21300000, guid: ccce479ce1380654c9907dc7f5f7948c, type: 3}
+  vegetable5: {fileID: 21300000, guid: 96620695f422a2f499c5cbe307c29961, type: 3}
+  vegetable6: {fileID: 21300000, guid: ea76b622329affc4ca0581f83d8cccba, type: 3}

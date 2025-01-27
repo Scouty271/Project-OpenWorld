@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8972465604284147917
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8972465604284147919}
+  - component: {fileID: 8972465604284147918}
+  m_Layer: 0
+  m_Name: MaterialHolder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8972465604284147919
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8972465604284147917}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 737.0021, y: 148.65234, z: 10.584473}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8972465604284147918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8972465604284147917}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e72e4b42f0548564d9563a3aacbc5bba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  grass1: {fileID: 2100000, guid: ef3fa48003630d94884df4ae1d62c1c7, type: 2}
+  grass2: {fileID: 2100000, guid: 23bffa229cf71e14e95c603ded2349fe, type: 2}
+  grass3: {fileID: 2100000, guid: b90e4e3cacceffa49b199b64421755f7, type: 2}
+  mountan1: {fileID: 2100000, guid: 3a6c36b2c5a1c70448a506a5d998ea1e, type: 2}
+  water1: {fileID: 2100000, guid: 1ebc338c853124a4aa69d728bb84e695, type: 2}
+  water2: {fileID: 2100000, guid: f6606249c8b92224493e7574bef55492, type: 2}
+  water3: {fileID: 2100000, guid: a4064b1ff0416644da8986bf8df283ab, type: 2}
+  water4: {fileID: 2100000, guid: f5cada4c6aea4fe48af58d8d326113e7, type: 2}
+  water5: {fileID: 2100000, guid: 3dd776d5590675142b1da367fcc4ef65, type: 2}

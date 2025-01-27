@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e72e4b42f0548564d9563a3aacbc5bba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - grass1: {instanceID: 0}
+  - grass2: {instanceID: 0}
+  - grass3: {instanceID: 0}
+  - mountan1: {instanceID: 0}
+  - water1: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
